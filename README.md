@@ -1,3 +1,22 @@
+#Orientador
+Hudson Neves 
+
+#Instituição 
+(Uniceplac) Centro Universitário do Planalto Central Apparecido dos Santos
+
+## Identificação do Grupo
+
+Davi Santana Alves Alecrim
+
+Ian Victor Viana de Jesus
+
+Ícaro Ruan Viana de Jesus
+
+Lucas Gabriel Alves de Souza
+
+Luiza Silva Freitas Hortelão
+
+---
 # Gerenciamento de Biblioteca
 
 ## 📚 Sobre o projeto
